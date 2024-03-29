@@ -1,2 +1,2 @@
-# food-website-pg-09
+# Quiz-app-pg-09
 PG-09 SCM Project
