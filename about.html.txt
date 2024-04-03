@@ -13,6 +13,23 @@
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
+      <!-- bootstrap css -->
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <!-- Responsive-->
+   
+      <!-- fevicon -->
+
+
+
+      <!-- fonts -->
+  
+      <!-- owl stylesheets --> 
+     
+    
+
+
    </head>
    <body>
       <!-- header section start -->
@@ -140,6 +157,8 @@
                                   <li><a href="contact.html">Contact Us</a></li>
                                </ul>
                             </div>
+                           
+       <!-- copyright section start -->
       
     </body>
  </html>
