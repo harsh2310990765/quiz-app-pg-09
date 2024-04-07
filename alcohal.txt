@@ -4,3 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alcohol Ordering</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Alcohol Menu</h1>
+    </header>
+
+    <section id="menu">
+        <!-- Alcohol items will be dynamically added here using JavaScript -->
+    </section>
+
+    <div class="cart" id="cart">
+        <h2>Shopping Cart</h2>
+        <div id="cart-items">
+            <!-- Cart items will be dynamically added here using JavaScript -->
+        </div>
+        <p>Total: &#8377<span id="total">0.00</span></p>
+        <button onclick="checkout()">Checkout</button>
+    </div>
