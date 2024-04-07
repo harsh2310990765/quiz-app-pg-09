@@ -98,3 +98,6 @@
         <p>Total: &#8377<span id="total">0.00</span></p>
         <button class="checkout-button" onclick="checkout()">Checkout</button>
     </div>
+<footer>
+        <p>&copy; 2023 Breakfast Menu</p>
+    </footer>
