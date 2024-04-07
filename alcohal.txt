@@ -24,3 +24,6 @@
         <p>Total: &#8377<span id="total">0.00</span></p>
         <button onclick="checkout()">Checkout</button>
     </div>
+<footer>
+        <p>&copy; 2023 Alcohol Ordering</p>
+    </footer>
