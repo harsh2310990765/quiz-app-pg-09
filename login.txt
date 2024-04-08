@@ -88,3 +88,13 @@ h2,h3 {
     color: white;
 }
 </style>
+</head>
+<body background="login bg.jpg">
+
+<h2>Welcome to Kaash On Delivery</h2>
+<h3>Register Yourself</h3>
+
+<form action="" method="post">
+  <div class="imgcontainer">
+    <img src="login avatar.jpg" alt="Avatar" class="avatar">
+  </div>
