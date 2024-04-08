@@ -134,6 +134,12 @@ body {
             `;
             menuSection.appendChild(coffeeItem);
         });
+// Add item to cart
+        function addToCart(itemId) {
+            const selectedCoffee = coffeeMenu.find(item => item.id === itemId);
+            cart.push(selectedCoffee);
+            updateCart();
+        }
 
         
 
