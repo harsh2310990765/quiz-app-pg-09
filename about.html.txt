@@ -55,3 +55,66 @@
          </div>
       </div>
       <!-- header section end -->
+<!-- layout main section start -->
+      <div class="container-fluid">
+         <div class="layout_main">
+            <!-- banner section start -->
+            <div class="banner_section">
+               <div class="container">
+                  <div class="menu_main">
+                     <div class="custome_menu">
+                        <ul>
+                           <li class="active"><a href="index.html">Home</a></li>
+                           <li><a href="service.html">Services</a></li>
+                           <li><a href="about.html">About</a></li>
+                           <li><a href="blog.html">Blog</a></li>
+                       
+                           <li><a href="contact.html">Contacts</a></li>
+                        </ul>
+                     </div>
+                     <div class="login_menu">
+                        <ul>
+                           <li><a href="login.html">Login</a></li>
+                           <li><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+                <!-- testimonial section start -->
+            <div class="testimonial_section layout_padding">
+                <div class="container">
+                   <div class="row">
+                      <div class="col-sm-12">
+                         <h1 class="testimonial_taital">Customers Says</h1>
+                      </div>
+                   </div>
+                   <div id="my_slider" class="carousel slide" data-ride="carousel">
+                      <div class="carousel-inner">
+                         <div class="carousel-item active">
+                            <div class="testimonial_section_2">
+                               <div class="row">
+                                  <div class="col-md-4">
+                                     <h4 class="customer_text">Madhav</h4>
+                                     <p class="many_text">“This is always our breakfast stop before heading home from vacation. Always delicious. Always great service. Always worth the stop.”</p>
+                                  </div>
+                                  <div class="col-md-4">
+                                     <h4 class="customer_text">kashvi</h4>
+                                     <p class="many_text">“I was so impressed with my breakfast this morning! I tried the Fried Green Tomato Benedict and my boyfriend got the Crab Cakes Benedict. We both finished our whole plates and were so impressed with the quality of the food and the short amount of time it took to receive it. Our waitress was sweet and helpful. I will definitely be back!”</p>
+                                  </div>
+                                  <div class="col-md-4">
+                                     <h4 class="customer_text">Rahul</h4>
+                                     <p class="many_text">“Very good service, good menu … not overly extensive. Food was very good quality all around. They know how to prepare home fries and their omelets are top-notch. Prices were reasonable.”</p>
+                                  </div>
+                               </div>
+                            </div>
+                      </div>
+                      <a class="carousel-control-prev" href="#my_slider" role="button" data-slide="prev">
+                      <i class="fa fa-arrow-left"></i>
+                      </a>
+                      <a class="carousel-control-next" href="#my_slider" role="button" data-slide="next">
+                      <i class="fa fa-arrow-right"></i>
+                      </a>
+                   </div>
+                </div>
+             </div>
+             <!-- testimonial section end -->
