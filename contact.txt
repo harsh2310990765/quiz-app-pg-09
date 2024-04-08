@@ -34,3 +34,26 @@
       <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
    </head>
    <body>
+<!-- header section start -->
+     <div class="container-fluid">
+      <div class="header_section">
+         <div class="container">
+            <nav class="navbar navbar-light bg-light justify-content-between">
+               <div id="mySidenav" class="sidenav">
+                  <a href="index.html">Home</a>
+                  <a href="service.html">Services</a>
+                  <a href="about.html">About</a>
+                  <a href="blog.html">Blog</a>
+              
+                  <a href="contacts.html">Contacts</a>
+               </div>
+               <form class="form-inline ">
+                  <div class="login_text"><a href="#"><i class="fa fa-phone" aria-hidden="true"></i><span class="padding_left10">Call : +91 9996265606</span></a></div>
+               </form>
+               <a class="logo" href="index.html"><img src="images/logo.png"></a></a>
+               <span class="toggle" onclick="openNav()"><i class="fa fa-bars"></i></span>
+               <div class="login_text"><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i><span class="padding_left10">Email : kashvi@gmail.com</span></a></div>
+            </nav>
+         </div>
+      </div>
+   </div>
