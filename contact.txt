@@ -57,3 +57,47 @@
          </div>
       </div>
    </div>
+<!-- footer section start -->
+           <div class="footer_section">
+            <div class="container">
+               <div class="footer_sectio_2">
+                  <div class="row">
+                     <div class="col-lg-3 col-md-6">
+                        <h2 class="footer_logo">Kashh On Delivery</h2>
+                        <p class="footer_text">We provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants in more than 1,000 Indian cities and towns </p>
+                     </div>
+                     <div class="col-lg-3 col-md-6">
+                        <h2 class="useful_text">Navigation</h2>
+                        <div class="footer_menu">
+                           <ul>
+                              <li class="active"><a href="index.html">Home</a></li>
+                              <li><a href="about.html">About</a></li>
+                              <li><a href="location.html">Location</a></li>
+                              <li><a href="service.html">Services</a></li>
+                              <li><a href="features.html">Features</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 col-md-6">
+                        <h2 class="useful_text">Contact Info</h2>
+                        <p class="address_text">Office Address</p>
+                        <div class="map_icon"><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i><span class="padding_left15">Chandigarh-Patiala National Highway (NH- 64 Village Jansla, Rajpura, Punjab 140401)</span></a></div>
+                        <p class="address_text">Customer Service:</p>
+                        <div class="map_icon"><a href="#"><i class="fa fa-phone" aria-hidden="true"></i><span class="padding_left15">( +91 9996265606 )</span></a></div>
+                        <div class="map_icon"><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i><span class="padding_left15">kashvi@gmail.com</span></a></div>
+                     </div>
+                     <div class="col-lg-3 col-md-6">
+                        <h2 class="useful_text">Discover</h2>
+                        <div class="subscribe_menu">
+                           <ul>
+                              <li><a href="#">Help</a></li>
+                              <li><a href="#">How It Works</a></li>
+                              <li><a href="#">subscribe</a></li>
+                              <li><a href="contact.html">Contact Us</a></li>
+                           </ul>
+                        </div>
+                       
+   <!-- copyright section start -->
+  
+   </body>
+</html>
