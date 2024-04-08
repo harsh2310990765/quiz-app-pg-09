@@ -140,6 +140,24 @@ body {
             cart.push(selectedCoffee);
             updateCart();
         }
+// Update cart display
+        function updateCart() {
+            cartItemsContainer.innerHTML = '';
+            let total = 0;
+
+            cart.forEach(item => {
+                const cartItem = document.createElement('div');
+                cartItem.classList.add('cart-item');
+                cartItem.innerHTML = `
+                    <p>${item.name}</p>
+                    <p> &#8377 ${item.price.toFixed(2)}</p>
+                `;
+                cartItemsContainer.appendChild(cartItem);
+                total += item.price;
+            });
+
+            totalElement.textContent = total.toFixed(2);
+        }
 
         
 
