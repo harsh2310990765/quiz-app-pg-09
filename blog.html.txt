@@ -160,3 +160,15 @@
                <div class="map_icon"><a href="#"><i class="fa fa-phone" aria-hidden="true"></i><span class="padding_left15">( +91 9996265606 )</span></a></div>
                <div class="map_icon"><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i><span class="padding_left15">kashvi@gmail.com</span></a></div>
             </div>
+<div class="col-lg-3 col-md-6">
+               <h2 class="useful_text">Discover</h2>
+               <div class="subscribe_menu">
+                  <ul>
+                     <li><a href="#">Help</a></li>
+                     <li><a href="#">How It Works</a></li>
+                     <li><a href="#">subscribe</a></li>
+                     <li><a href="contact.html">Contact Us</a></li>
+                  </ul>
+               </div>
+              
+   </body>
