@@ -58,3 +58,49 @@
       </div>
    </div>
    <!-- header section end -->
+<!-- layout main section start -->
+   <div class="container-fluid">
+      <div class="layout_main">
+         <!-- banner section start -->
+         <div class="banner_section">
+            <div class="container">
+               <div class="menu_main">
+                  <div class="custome_menu">
+                     <ul>
+                        <li class="active"><a href="index.html">Home</a></li>
+                        <li><a href="service.html">Services</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                    
+                        <li><a href="contact.html">Contacts</a></li>
+                     </ul>
+                  </div>
+                  <div class="login_menu">
+                     <ul>
+                        <li><a href="login.html">Login</a></li>
+                        <li><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+            <!-- banner section end -->
+           
+         <div id="main_slider" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+               <div class="carousel-item active">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-12">
+                           <h1 class="banner_taital">Find The Best Restaurants Cafes And Bars in </h1>
+                           <h1 class="banner_text">YOUR CITY</h1>
+                           <div class="banner_main">
+                              <div class="dropdown">
+                                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">All Category 
+                                 </button>
+                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                    <a class="dropdown-item" href="#">Breakfast</a>
+                                    <a class="dropdown-item" href="#">lunch</a>
+                                    <a class="dropdown-item" href="#">Dinner</a>
+                                 </div>
+                              </div>
+                              <div class="main">
