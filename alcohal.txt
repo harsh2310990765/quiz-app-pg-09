@@ -135,7 +135,7 @@
             updateCart();
         }
 
-       
+        // Update cart display
         function updateCart() {
             cartItemsContainer.innerHTML = '';
             let total = 0;
