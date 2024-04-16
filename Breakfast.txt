@@ -165,7 +165,7 @@
             alert('Checkout function triggered!');
             // Add your checkout logic here
         }
-    
+    </script>
 </body>
 
 </html>
