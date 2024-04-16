@@ -115,7 +115,7 @@ body {
         const totalElement = document.getElementById('total');
         let cart = [];
 
-        // Add menu items dynamically
+       
         menuData.forEach(item => {
             const menuItem = document.createElement('div');
             menuItem.classList.add('menu-item');
