@@ -154,7 +154,7 @@
             totalElement.textContent = total.toFixed(2);
         }
 
-        // Checkout function (you can customize this function)
+        
         function checkout() {
             alert('Checkout function triggered!');
             // Add your checkout logic here
