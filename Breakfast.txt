@@ -87,19 +87,18 @@
     </header>
 
     <section id="menu">
-        <!-- Menu items will be dynamically added here using JavaScript -->
-    </section>
+            </section>
 
     <div class="cart" id="cart">
         <h2>Shopping Cart</h2>
         <div id="cart-items">
-            <!-- Cart items will be dynamically added here using JavaScript -->
+            
         </div>
         <p>Total: &#8377<span id="total">0.00</span></p>
-        <button class="checkout-button" onclick="checkout()">Checkout</button>
+        <button class="checkout-button" onclick="checkout()"> Checkout </button>
     </div>
 <footer>
-        <p>&copy; 2023 Breakfast Menu</p>
+        <p>&copy; 2023 Breakfast Menu </p>
     </footer>
 <script>
     const breakfastMenu = [
