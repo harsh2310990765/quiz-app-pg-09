@@ -165,7 +165,6 @@
             // Add your checkout logic here
         }
 <<<<<<< HEAD
-</script>
     
 =======
     </script>
