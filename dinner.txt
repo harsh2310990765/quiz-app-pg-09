@@ -129,7 +129,7 @@ body {
             menuSection.appendChild(menuItem);
         });
 
-        // Add item to cart
+        
         function addToCart(itemId) {
             const selectedItem = menuData.find(item => item.id === itemId);
             cart.push(selectedItem);
