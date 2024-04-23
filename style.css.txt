@@ -1272,7 +1272,4 @@ a{
     display: block;
   }
   
-  .dropdown a:hover {background-color: #ddd;}
   
-  .show {display: block;}
-/* copyright section end
