@@ -159,7 +159,7 @@
             totalElement.textContent = total.toFixed(2);
         }
 
-// Checkout function (you can customize this function)
+//you can customize the checkout as per your own basics
 
         function checkout() {
             alert('Checkout function triggered!');
