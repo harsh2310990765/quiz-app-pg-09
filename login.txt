@@ -110,7 +110,11 @@ h2,h3 {
         
     <button type="submit" id="lbutton">Login</button>
     <label id="cbox">
+<<<<<<< HEAD
       <input type="checkbox" checked="checked" name="remember" > 
+=======
+      <input type="checkbox" checked="checked" name="remember" > rememeber Me
+>>>>>>> 42dd369dede8716ff8479593e70bc47b5e85a7d5
     </label>
   </div>
 </form>
